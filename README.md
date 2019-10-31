@@ -1,2 +1,2 @@
 # hello-world
-jsPrep
+intro to github
